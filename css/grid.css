@@ -845,7 +845,11 @@ figure {
   }
 
   figcaption {
-    padding-bottom: 1.25em;
+    padding-bottom: 6em;
+  }
+
+  .gutter {
+    padding-top: 1em;
   }
 
 }
